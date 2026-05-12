@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "Atualização do StarLabel PRO v0.1.6.",
-  "pub_date": "2026-05-11T22:35:00Z",
+  "version": "0.1.7",
+  "notes": "Atualização do StarLabel PRO v0.1.7",
+  "pub_date": "2026-05-11T22:45:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRmVsNlhuNnI4RUxpTnZYWU0rMU96elFPOVFqYzhXKzhzRGJYVnVQUjdudW9zSWVLdVM3Q0pjRms4Q3QrS1JtSFJSUVdjMEJ6TWVISXlFL3dROU5zbjNSNEdRb29aZmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTQ5NjI5CWZpbGU6U3RhckxhYmVsUFJPXzAuMS42X3g2NC1zZXR1cC5leGUKN21PMTl4bkxqT3J4Rm9zbEtrTU9xYzQ4QXd5a0NldTYyRCtSa1czRVp6aHg0V2lDNkxNMWZxUjBuY3VHMllIaFVkejFzektMUjVlU3VsTmRGaXV1QlE9PQo=",
-      "url": "https://github.com/WellisonF2/starlabelpro_download/releases/download/v0.1.6/StarLabelPRO_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRmVsNlhuNnI4RUtKWG9ROFptRy8vU3ZqazVQVUEvRmlxYXJRTVg0SVRlVVgxUW1BYlF4azhuWHlkNFdKTDIxZnBxQXVHdWpQQk11UnNzUGJkVVZPYXF4UWR2WW9mc1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTUwMjk0CWZpbGU6U3RhckxhYmVsUFJPXzAuMS43X3g2NC1zZXR1cC5leGUKTUhRT0lOWm1mVTdNT0huMmozQ3NlR3ZleHVzcGpOejJMcWc3OTRVSzlhd0dMZWdjUkNsaTNURGszbmdMRWRKZllxYjR6YW50MEg5ZUpCZHU1ZDBhQ1E9PQo=",
+      "url": "https://github.com/WellisonF2/starlabelpro_download/releases/download/v0.1.7/StarLabelPRO_0.1.7_x64-setup.exe"
     }
   }
 }
