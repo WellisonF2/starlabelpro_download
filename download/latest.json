@@ -1,11 +1,19 @@
 {
-  "version": "0.1.9",
-  "notes": "Atualização do StarLabel PRO v0.1.9",
-  "pub_date": "2026-05-11T23:55:00Z",
+  "version": "3.4.6",
+  "notes": "Nova atualização disponível para o StarLabel Pro!",
+  "pub_date": "2026-11-15T12:21:24.730Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRmVsNlhuNnI4RU1YWE43enJITlc0RWo1OWMwWFdhRllhTG5ENkZJRm5oNjR0ZnljaCtIcVNTOEU5eldQN3REYzFzQlpvQmVFK0pKTjdpZUZTcDRYQmEvVlZGd21Jd1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTUxMjIzCWZpbGU6U3RhckxhYmVsUFJPXzAuMS45X3g2NC1zZXR1cC5leGUKaVRZNlcvaTBQUTEvZ1VJU0V6REFEVEl5N0ZFeDJqZGE0YXVSaEVDZ1lqYmR2MVQyeUVzNWtQVzIzelFDM0g3Y1JyaEV1UXZFTlh4T1RlQUlUTFdhQ1E9PQo=",
-      "url": "https://github.com/WellisonF2/starlabelpro_download/releases/download/v0.1.9/StarLabelPRO_0.1.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbU9nUlkwb1dwS2gwK016dGUyNkFwWUsrUXBWSjllZUczd1J1V0tIVStXMzFCWDNWZ3RKOXcvSGYwRzYySjNlbncremZOQjRPOFlIUWVtREtsazlqOTBJSFYwbkdzTFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ1Mjc5CWZpbGU6U3RhckxhYmVsUFJPXzMuNC42X3g2NF9lbi1VUy5tc2kKWndiVVJRdGVSNmUyZDZpMTk3cGpiUmk2dFI0QjlJS3JPYmt2aWd2UVB6WWpFTU9wazVESEZJZS9XenFxZDBkdjVHczdmalRhUXFuVVFMSXU1TnphREE9PQo=",
+      "url": "https://github.com/WellisonF2/starlabelpro_frontend/releases/download/v3.4.6/StarLabelPRO_3.4.6_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbU9nUlkwb1dwS2gwK016dGUyNkFwWUsrUXBWSjllZUczd1J1V0tIVStXMzFCWDNWZ3RKOXcvSGYwRzYySjNlbncremZOQjRPOFlIUWVtREtsazlqOTBJSFYwbkdzTFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ1Mjc5CWZpbGU6U3RhckxhYmVsUFJPXzMuNC42X3g2NF9lbi1VUy5tc2kKWndiVVJRdGVSNmUyZDZpMTk3cGpiUmk2dFI0QjlJS3JPYmt2aWd2UVB6WWpFTU9wazVESEZJZS9XenFxZDBkdjVHczdmalRhUXFuVVFMSXU1TnphREE9PQo=",
+      "url": "https://github.com/WellisonF2/starlabelpro_frontend/releases/download/v3.4.6/StarLabelPRO_3.4.6_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbU9nUlkwb1dwS29SSEdreHJDemFkRnJGSkJSM05BaElES2YxTk5GeFM2cVBTV3ptb01wcGZQc0g2aUdXQmdZUkduYlNObEtZM0JYejkvQkVvUGNZaGRnRHQ1eU52c3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ1Mjc5CWZpbGU6U3RhckxhYmVsUFJPXzMuNC42X3g2NC1zZXR1cC5leGUKQVdQRWFTc3VCbWwrdmFycFNZeXB0cDVRNUc2Z0VQYzJOWWlVQ3piWkNJT2pqKzg1c3Uvb2hwdk9DSkVhRmJPK3lLNFBPMkpLK0FhMngzNFlzNHFuQlE9PQo=",
+      "url": "https://github.com/WellisonF2/starlabelpro_frontend/releases/download/v3.4.6/StarLabelPRO_3.4.6_x64-setup.exe"
     }
   }
 }
