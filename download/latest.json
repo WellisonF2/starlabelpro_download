@@ -1,19 +1,19 @@
 {
-  "version": "3.4.6",
-  "notes": "StarLabel Pro v3.4.6 - nova atualizacao disponivel.",
-  "pub_date": "2026-11-15T12:33:44.664Z",
+  "version": "3.4.7",
+  "notes": "StarLabel Pro v3.4.7 - nova atualizacao disponivel.",
+  "pub_date": "2026-11-15T13:14:18.979Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbU9nUlkwb1dwS3BrUGtybmNacEpWTmEreHBrZ2t5T3FrRHp0L1F4TmlheW9wbXVSWjZmUS9JQThHQk9SODF4V0dEVy9taHZxUjhCU2x2ZGZPM3lmQktya21Vd2wyeVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ2MDE4CWZpbGU6U3RhckxhYmVsUFJPXzMuNC42X3g2NF9lbi1VUy5tc2kKZEZrZHFqMDdwVGdUQlVzNVR2ZUMxRzlFTUtjWUxRcndiTG9EbnA1U0Zwc0ZaY21HczB6aHFucjJycjFlS01QeVdkVktudHV1eHdVaEtrSWY1aGNERGc9PQo=",
-      "url": "https://github.com/WellisonF2/starlabelpro_download/releases/download/v3.4.6/StarLabelPRO_3.4.6_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbU9nUlkwb1dwS25KK1UzWjBqQmtSb3Vrd1lBRmM3TDVDNkNKOHhuWE1WK1ZKcU9iZWNFWkNiQ3c3OWRHRkhWNTBvOGloMFh4amtiL2hPaGh5bEg0cUFLZWNpdWRWeEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ4NDUzCWZpbGU6U3RhckxhYmVsUFJPXzMuNC43X3g2NF9lbi1VUy5tc2kKNWFOSnhGTDE0SUhJS1p5OExPV25FaGIzNDRYS3h3dHVVa0JvdDN3eGFZazh1eEx4OGE3MUNMUnhoMFlicTRTZTFscUwxQTNYMUN5NDBJYkhQcWYwQWc9PQo=",
+      "url": "https://github.com/WellisonF2/starlabelpro_download/releases/download/v3.4.7/StarLabelPRO_3.4.7_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbU9nUlkwb1dwS3BrUGtybmNacEpWTmEreHBrZ2t5T3FrRHp0L1F4TmlheW9wbXVSWjZmUS9JQThHQk9SODF4V0dEVy9taHZxUjhCU2x2ZGZPM3lmQktya21Vd2wyeVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ2MDE4CWZpbGU6U3RhckxhYmVsUFJPXzMuNC42X3g2NF9lbi1VUy5tc2kKZEZrZHFqMDdwVGdUQlVzNVR2ZUMxRzlFTUtjWUxRcndiTG9EbnA1U0Zwc0ZaY21HczB6aHFucjJycjFlS01QeVdkVktudHV1eHdVaEtrSWY1aGNERGc9PQo=",
-      "url": "https://github.com/WellisonF2/starlabelpro_download/releases/download/v3.4.6/StarLabelPRO_3.4.6_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbU9nUlkwb1dwS25KK1UzWjBqQmtSb3Vrd1lBRmM3TDVDNkNKOHhuWE1WK1ZKcU9iZWNFWkNiQ3c3OWRHRkhWNTBvOGloMFh4amtiL2hPaGh5bEg0cUFLZWNpdWRWeEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ4NDUzCWZpbGU6U3RhckxhYmVsUFJPXzMuNC43X3g2NF9lbi1VUy5tc2kKNWFOSnhGTDE0SUhJS1p5OExPV25FaGIzNDRYS3h3dHVVa0JvdDN3eGFZazh1eEx4OGE3MUNMUnhoMFlicTRTZTFscUwxQTNYMUN5NDBJYkhQcWYwQWc9PQo=",
+      "url": "https://github.com/WellisonF2/starlabelpro_download/releases/download/v3.4.7/StarLabelPRO_3.4.7_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbU9nUlkwb1dwS2pCUU04Z05qNkszWmI1RCtiYVNjQmJ0ZXM2ZW5FdnhuZW1xczVaTUM2VURueGV1THJzTi91RHRuSExWdEJBYVlpZVFTUU5KcU8vUHVQU3ViMGdBTVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ2MDE4CWZpbGU6U3RhckxhYmVsUFJPXzMuNC42X3g2NC1zZXR1cC5leGUKQ2ExWjNhZjBteUVDMG9mWE1qdWp4b2tPWjRLdVBLV2tkaHk5UklvWHdUajhHWXR4L3Z4SktIcmhQNE5PUEUrNGNJZExsOFFZRUUwbUpnSmNrWGlGQ0E9PQo=",
-      "url": "https://github.com/WellisonF2/starlabelpro_download/releases/download/v3.4.6/StarLabelPRO_3.4.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbU9nUlkwb1dwS3VYY0JUTUhYNy92RGdoUEJFb2xkd0hnN1VLMi9laElFWTZSNTA2ekJRSFdRYzlIMzVZM3BsYkwvZ0pGbllEMG1kSjNUZFNoY1lpRU9aZDErc21id0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ4NDUzCWZpbGU6U3RhckxhYmVsUFJPXzMuNC43X3g2NC1zZXR1cC5leGUKOWxrN3FwdGZtTFNrSUk0QUh6b0xKSVZibVhlSDlMQlQwUkNKd1VvZ1h1Z2ZRRE16OXlnUzNubVRSSVdLSDhxaC82WldyNllyRTNleHM0NEtCdlJNQVE9PQo=",
+      "url": "https://github.com/WellisonF2/starlabelpro_download/releases/download/v3.4.7/StarLabelPRO_3.4.7_x64-setup.exe"
     }
   }
 }
